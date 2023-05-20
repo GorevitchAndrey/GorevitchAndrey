@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **doc.horevych@gmail.com**
 
+- 📄 Know about my experiences [https://www.linkedin.com/in/andrii-horevych-3a12231ba/](https://www.linkedin.com/in/andrii-horevych-3a12231ba/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@andreygor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@andreygor" height="30" width="40" /></a>
@@ -31,6 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorevitchandrey&show_icons=true&locale=en" alt="gorevitchandrey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorevitchandrey&" alt="gorevitchandrey" /></p>
+
 
 
 
