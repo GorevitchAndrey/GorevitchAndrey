@@ -1,16 +1,9 @@
 [![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/bannerMajdigithub.gif?token=GHSAT0AAAAAABUZ7SARWF5JRH6NM4LJHVBMY3GNJMQ)](https://GorevitchAndrey.io)
-<h1 align="center">Hi 👋, I'm Andrii Horevych</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h1 align="center">Hi 👋, I'm Andrey Horevych</h1>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorevitchandrey&label=Profile%20views&color=0e75b6&style=flat" alt="gorevitchandrey" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Course store use Node.js**
-
-- 🌱 I’m currently learning **Node.js Express.js MongoDB**
-
-- 💬 Ask me about **Vue.js Vuex**
 
 - 📫 How to reach me **doc.horevych@gmail.com**
 
