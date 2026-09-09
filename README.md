@@ -8,7 +8,7 @@ I run **Easy Web Solution**, a web design and development portfolio for business
 
 - Website: https://easy-web-solution.com
 - Email: easy.web.solution.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/andrii-horevych-3a12231ba/
+- LinkedIn: https://www.linkedin.com/in/andrii-horevych-developer
 - Location: Calgary, Alberta, Canada
 
 ### Services
